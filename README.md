@@ -15,5 +15,5 @@ The project has been divided into various steps which include:
 * Dimensionality Reduction
 
 ```diff
-- THIS PROJECT IS NOT FINISHED YET. There more exploration stuff coming up :)
+- THIS PROJECT IS NOT FINISHED YET. There will more exploration stuff coming up :)
 ```
